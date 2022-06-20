@@ -21,6 +21,7 @@ A continuación, entre a la carpeta donde se encuentra alojado el código que de
 	python Alineamiento_Smith-waterman.py secuencias.fasta
 
 donde secuencias.fasta es el archivo en el que se encuentran las secuencias a analizar, en caso de que este archivo tenga una ubicación distinta a la del código del programa, incluya la ruta de la ubicación del archivo, a continuación puede ver un ejemplo.
+
 ![](Aspose.Words.194767f4-0ab3-4244-adf9-96ab049cca97.003.png)
 
 Con esto solo resta esperar a que el programa termine de ejecutarse, cuando esto pase, ya podrá ver los resultados del alineamiento en un archivo tipo texto que se guardará en la misma carpeta en la que se encuentra el código que ejecutó. de este estilo debe verse el resultado: 
