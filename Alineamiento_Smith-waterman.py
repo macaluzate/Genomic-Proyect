@@ -10,9 +10,6 @@ except ImportError:
 #Se importa las librerias numpy y pandas para operar matrices que se obtendran en el algoritmo, adémas de las funciones necesarias de Biopython para leer el archivo tipo fasta
 import numpy as np
 import pandas as pd
-from Bio import Seq
-from Bio.Seq import MutableSeq 
-from Bio.SeqRecord import SeqRecord
 from Bio import SeqIO
 import math
 import sys
